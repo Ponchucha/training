@@ -51,8 +51,3 @@ rm file.txt
 ```
 
 
-## Подсказка по git
-Краткий список коммитов
-```sh
-git log --oneline --graph
-```

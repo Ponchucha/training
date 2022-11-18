@@ -36,4 +36,18 @@ cls
 clear
 ```
 
-### Some random text
+## Удаление файла
+
+### Windows
+
+```sh
+del file.txt
+```
+
+### Linux/MacOs
+
+```sh
+rm file.txt
+```
+
+

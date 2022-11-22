@@ -14,3 +14,7 @@
 Ненумерованный:
 Звёздочка или плюс
 
+## Добавление картинки
+
+![Это яблоко](depositphotos_12089121-stock-photo-green-apple-with-leaf.jpg)
+

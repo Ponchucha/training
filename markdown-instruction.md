@@ -14,6 +14,13 @@
 Ненумерованный:
 Звёздочка или плюс
 
+
 ## Вставка изображения
 
 ![Это апельсин](4a58c6a9afdcf2f8a6104d2996d09dea.jpg)
+
+
+
+![Это яблоко](depositphotos_12089121-stock-photo-green-apple-with-leaf.jpg)
+
+

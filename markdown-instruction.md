@@ -23,4 +23,5 @@
 
 ![Это яблоко](depositphotos_12089121-stock-photo-green-apple-with-leaf.jpg)
 
+Какой-то тескт от Сергея
 

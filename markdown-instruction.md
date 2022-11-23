@@ -23,3 +23,6 @@
 
 ![Это яблоко](depositphotos_12089121-stock-photo-green-apple-with-leaf.jpg)
 
+## Цитаты
+
+Цитаты добавляются при помощи символа (>)

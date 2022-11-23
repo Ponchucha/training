@@ -23,7 +23,3 @@
 
 ![Это яблоко](depositphotos_12089121-stock-photo-green-apple-with-leaf.jpg)
 
-SOME TEXT FROM VASYA
-
-Какой-то тескт от Сергея
-

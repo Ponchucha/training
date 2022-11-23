@@ -23,3 +23,6 @@
 
 ![Это яблоко](depositphotos_12089121-stock-photo-green-apple-with-leaf.jpg)
 
+## Ссылки
+
+Это встроенная [ссылка с title](http://example.com/link "Я ссылка"). Это — [без title](http://example.com/link)
